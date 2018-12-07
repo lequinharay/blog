@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Read Me Later!</title>
+    <link>http://blog.lequinharay.red/tags/blog/</link>
+    <description>Recent content in Blog on Read Me Later!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2016 lequinharay. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 14 Mar 2016 01:17:22 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.lequinharay.red/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HUGOでブログ作ってみた</title>
+      <link>http://blog.lequinharay.red/post/hello-world/</link>
+      <pubDate>Mon, 14 Mar 2016 01:17:22 +0900</pubDate>
+      
+      <guid>http://blog.lequinharay.red/post/hello-world/</guid>
+      <description>移行した tumblrはエディタがあまりいけてなくて、これまで投稿するのにローカルのエディタを使ってコピペしてpostを作っていた。 そういう手</description>
+    </item>
+    
+  </channel>
+</rss>

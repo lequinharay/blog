@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Read Me Later!</title>
+    <link>http://blog.lequinharay.red/tags/</link>
+    <description>Recent content in Tags on Read Me Later!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2016 lequinharay. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 14 Mar 2016 01:17:22 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.lequinharay.red/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>http://blog.lequinharay.red/tags/blog/</link>
+      <pubDate>Mon, 14 Mar 2016 01:17:22 +0900</pubDate>
+      
+      <guid>http://blog.lequinharay.red/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chrome Extension</title>
+      <link>http://blog.lequinharay.red/tags/chrome-extension/</link>
+      <pubDate>Tue, 24 May 2016 17:07:39 +0900</pubDate>
+      
+      <guid>http://blog.lequinharay.red/tags/chrome-extension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://blog.lequinharay.red/tags/hugo/</link>
+      <pubDate>Mon, 14 Mar 2016 01:17:22 +0900</pubDate>
+      
+      <guid>http://blog.lequinharay.red/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nerdtree</title>
+      <link>http://blog.lequinharay.red/tags/nerdtree/</link>
+      <pubDate>Wed, 20 Apr 2016 09:00:00 +0900</pubDate>
+      
+      <guid>http://blog.lequinharay.red/tags/nerdtree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tabsoutliner</title>
+      <link>http://blog.lequinharay.red/tags/tabsoutliner/</link>
+      <pubDate>Tue, 24 May 2016 17:07:39 +0900</pubDate>
+      
+      <guid>http://blog.lequinharay.red/tags/tabsoutliner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim</title>
+      <link>http://blog.lequinharay.red/tags/vim/</link>
+      <pubDate>Wed, 20 Apr 2016 09:00:00 +0900</pubDate>
+      
+      <guid>http://blog.lequinharay.red/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim Plugin</title>
+      <link>http://blog.lequinharay.red/tags/vim-plugin/</link>
+      <pubDate>Wed, 20 Apr 2016 09:00:00 +0900</pubDate>
+      
+      <guid>http://blog.lequinharay.red/tags/vim-plugin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

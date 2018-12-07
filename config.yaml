@@ -1,0 +1,88 @@
+title: "Read Me Later!"
+baseURL: "http://blog.lequinharay.red/"
+copyright: "&copy; 2016 lequinharay. All rights reserved."
+
+metadataFormat: yaml
+
+langageCode: "ja-jp"
+defaultContentLanguage: "ja"
+
+canonifyurls: true
+# paginate: 10
+publishDir: "docs"
+enableEmoji: true
+enableInlineShortcodes: true
+hasCJKLanguage: true
+
+theme: blackburn
+
+indexes:
+  tag: "tags"
+  topic: "topics"
+
+params:
+  # Shown in the home page
+  subtitle: "日々のメモ書き"
+  brand: "lequinharay"
+  googleAnalytics: "UA-34153845-4"
+  # disqus: "Your Disqus shortname"
+  # CSS name for highlight.js
+  highlightjs: "androidstudio"
+  dateFormat: "02 Jan 2006, 15:04"
+
+menu:
+  # Shown in the side menu.
+  main:
+  - identifier: "home"
+    name: "Home"
+    pre: "<i class='fa fa-home fa-fw'></i>"
+    weight: 0
+    url: "/"
+  - identifier: "post"
+    name: "Posts"
+    pre: "<i class='fa fa-list fa-fw'></i>"
+    weight: 1
+    url: "/post/"
+  - identifier: "about"
+    name: "About"
+    pre: "<i class='fa fa-user fa-fw'></i>"
+    weight: 2
+    url: "/about/"
+  - identifier: "contact"
+    name: "Contact"
+    pre: "<i class='fa fa-phone fa-fw'></i>"
+    weight: 3
+    url: "/contact/"
+
+social:
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+
+  # SNS microblogging
+  twitter: "lequinharay"
+  # facebook: "*"
+  # googleplus: "*"
+  # weibo: "*"
+
+  # SNS photo/video sharing
+  # instagram: "*"
+  flickr: "lequinharay"
+  # pinterest: "*"
+  # youtube: "*"
+  # vimeo: "*"
+  # vine: "*"
+  # slideshare: "*"
+
+  # SNS career oriented
+  # linkedin: "*"
+  # xing: "*"
+
+  # SNS news
+  # reddit: "*"
+  # hackernews: "*"
+
+  # Techie
+  github: "lequinharay"
+  # bitbucket: "*"
+  # stackoverflow: "lequinharay"
+

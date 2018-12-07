@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Read Me Later!</title>
+    <link>http://blog.lequinharay.red/</link>
+    <description>Recent content on Read Me Later!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2016 lequinharay. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 24 May 2016 17:07:39 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.lequinharay.red/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tabs outliner のマニュアル訳</title>
+      <link>http://blog.lequinharay.red/post/tab-outliner-manual-translation/</link>
+      <pubDate>Tue, 24 May 2016 17:07:39 +0900</pubDate>
+      
+      <guid>http://blog.lequinharay.red/post/tab-outliner-manual-translation/</guid>
+      <description>Tabs Outliner のマニュアル訳（途中） Tabs Outliner 使い方 この拡張は複雑な問題の解決を目的にしています。（「本当にたくさんのタブ」を開いてしまうトラブルの解決に本</description>
+    </item>
+    
+    <item>
+      <title>vimにNERDTreeを入れる</title>
+      <link>http://blog.lequinharay.red/post/vim-nerdtree/</link>
+      <pubDate>Wed, 20 Apr 2016 09:00:00 +0900</pubDate>
+      
+      <guid>http://blog.lequinharay.red/post/vim-nerdtree/</guid>
+      <description>vimにNERDTreeを入れる 記事の通りにやる vim-plugin NERDTree で開発効率をアップする！ - Qiita を参考にする 記事からの修正点 そのままやると、NERDTree</description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://blog.lequinharay.red/contact/</link>
+      <pubDate>Mon, 14 Mar 2016 10:50:01 +0900</pubDate>
+      
+      <guid>http://blog.lequinharay.red/contact/</guid>
+      <description> mail: lequinharay[at]gmail.com  </description>
+    </item>
+    
+    <item>
+      <title>HUGOでブログ作ってみた</title>
+      <link>http://blog.lequinharay.red/post/hello-world/</link>
+      <pubDate>Mon, 14 Mar 2016 01:17:22 +0900</pubDate>
+      
+      <guid>http://blog.lequinharay.red/post/hello-world/</guid>
+      <description>移行した tumblrはエディタがあまりいけてなくて、これまで投稿するのにローカルのエディタを使ってコピペしてpostを作っていた。 そういう手</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://blog.lequinharay.red/about/</link>
+      <pubDate>Thu, 28 Jan 2016 14:32:55 +0900</pubDate>
+      
+      <guid>http://blog.lequinharay.red/about/</guid>
+      <description>自分自身についていろいろ書いたよ</description>
+    </item>
+    
+  </channel>
+</rss>

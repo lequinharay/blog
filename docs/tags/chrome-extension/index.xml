@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chrome Extension on Read Me Later!</title>
-    <link>http://blog.lequinharay.red/tags/chrome-extension/</link>
+    <link>https://blog.lequinharay.red/tags/chrome-extension/</link>
     <description>Recent content in Chrome Extension on Read Me Later!</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2016 lequinharay. All rights reserved.</copyright>
     <lastBuildDate>Tue, 24 May 2016 17:07:39 +0900</lastBuildDate>
     
-	<atom:link href="http://blog.lequinharay.red/tags/chrome-extension/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.lequinharay.red/tags/chrome-extension/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>tabs outliner のマニュアル訳</title>
-      <link>http://blog.lequinharay.red/post/tab-outliner-manual-translation/</link>
+      <link>https://blog.lequinharay.red/post/tab-outliner-manual-translation/</link>
       <pubDate>Tue, 24 May 2016 17:07:39 +0900</pubDate>
       
-      <guid>http://blog.lequinharay.red/post/tab-outliner-manual-translation/</guid>
+      <guid>https://blog.lequinharay.red/post/tab-outliner-manual-translation/</guid>
       <description>Tabs Outliner のマニュアル訳（途中） Tabs Outliner 使い方 この拡張は複雑な問題の解決を目的にしています。（「本当にたくさんのタブ」を開いてしまうトラブルの解決に本</description>
     </item>
     

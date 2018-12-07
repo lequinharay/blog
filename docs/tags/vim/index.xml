@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vim on Read Me Later!</title>
-    <link>http://blog.lequinharay.red/tags/vim/</link>
+    <link>https://blog.lequinharay.red/tags/vim/</link>
     <description>Recent content in Vim on Read Me Later!</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2016 lequinharay. All rights reserved.</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 09:00:00 +0900</lastBuildDate>
     
-	<atom:link href="http://blog.lequinharay.red/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.lequinharay.red/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>vimにNERDTreeを入れる</title>
-      <link>http://blog.lequinharay.red/post/vim-nerdtree/</link>
+      <link>https://blog.lequinharay.red/post/vim-nerdtree/</link>
       <pubDate>Wed, 20 Apr 2016 09:00:00 +0900</pubDate>
       
-      <guid>http://blog.lequinharay.red/post/vim-nerdtree/</guid>
+      <guid>https://blog.lequinharay.red/post/vim-nerdtree/</guid>
       <description>vimにNERDTreeを入れる 記事の通りにやる vim-plugin NERDTree で開発効率をアップする！ - Qiita を参考にする 記事からの修正点 そのままやると、NERDTree</description>
     </item>
     
